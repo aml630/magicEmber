@@ -1,7 +1,6 @@
 # Magic
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application utilizes a magic the gathering API to capture much of the pertinent information about recent sets of magic cards. One of these data attributes can be used to access the wizards of the cost api to capture that cards image. All this data is saved to the database via firebase.
 
 ## Prerequisites
 
